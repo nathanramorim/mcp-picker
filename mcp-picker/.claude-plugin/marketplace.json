@@ -1,0 +1,9 @@
+{
+  "name": "mcp-picker",
+  "version": "0.1.0",
+  "description": "Escolhe quais MCPs ficam ativos ao iniciar a sessão",
+  "author": "nathanramorim",
+  "license": "MIT",
+  "keywords": ["mcp", "session", "picker", "productivity"],
+  "repository": "https://github.com/nathanramorim/mcp-picker"
+}
